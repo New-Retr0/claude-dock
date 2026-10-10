@@ -1,0 +1,15 @@
+{
+  "name": "agent-model-badge",
+  "version": "0.1.0",
+  "description": "Shows each spawned subagent's resolved model and effort beside its row, so a surprise model assignment is visible at a glance.",
+  "author": {
+    "name": "Austin Lucero"
+  },
+  "homepage": "https://github.com/New-Retr0/claude-dock",
+  "repository": "https://github.com/New-Retr0/claude-dock",
+  "license": "MIT",
+  "icon": "./icon.png",
+  "documentationUrl": "https://github.com/New-Retr0/claude-dock/blob/main/agent-model-badge/README.md",
+  "supportUrl": "https://github.com/New-Retr0/claude-dock/issues",
+  "privacyPolicyUrl": "https://github.com/New-Retr0/claude-dock/blob/main/agent-model-badge/PRIVACY.md"
+}

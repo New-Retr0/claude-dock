@@ -1,0 +1,16 @@
+{
+  "name": "cc-dock",
+  "version": "0.1.0",
+  "description": "A dock above the prompt: plan usage windows, main and subagent context fill, and the shells running now with what each one is doing.",
+  "author": {
+    "name": "Austin Lucero"
+  },
+  "homepage": "https://github.com/New-Retr0/claude-dock",
+  "repository": "https://github.com/New-Retr0/claude-dock",
+  "displayName": "Claude Dock",
+  "license": "MIT",
+  "icon": "./icon.png",
+  "documentationUrl": "https://github.com/New-Retr0/claude-dock/blob/main/cc-dock/README.md",
+  "supportUrl": "https://github.com/New-Retr0/claude-dock/issues",
+  "privacyPolicyUrl": "https://github.com/New-Retr0/claude-dock/blob/main/cc-dock/PRIVACY.md"
+}

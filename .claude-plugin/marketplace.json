@@ -1,0 +1,17 @@
+{
+  "name": "retr0",
+  "description": "Claude Dock, a live dashboard above the Claude Code prompt, and Agent Model Badge, the real model and effort on every subagent.",
+  "owner": {
+    "name": "Austin Lucero"
+  },
+  "plugins": [
+    {
+      "name": "agent-model-badge",
+      "source": "./agent-model-badge"
+    },
+    {
+      "name": "cc-dock",
+      "source": "./cc-dock"
+    }
+  ]
+}
